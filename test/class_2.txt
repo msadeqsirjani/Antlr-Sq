@@ -1,0 +1,3 @@
+class test(x:int, y : string, z : Array[double])
+{
+}

@@ -1,0 +1,5 @@
+class x implements a ()
+{}
+
+class x implements a,b,c,d ()
+{}

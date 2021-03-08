@@ -1,0 +1,3 @@
+print 10
+print "dfsgd" 21321 121
+print fsdfsdf 

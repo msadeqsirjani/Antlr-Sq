@@ -1,0 +1,5 @@
+def sum () => void
+{
+    var sum : int = 0
+    sum = a + b
+}

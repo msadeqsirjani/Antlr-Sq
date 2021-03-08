@@ -1,0 +1,14 @@
+class x()
+{
+
+}
+
+while n > 10
+{
+    var x : x = new x()
+    
+    x = new x()
+    
+    if(x > 10)
+    {}
+}

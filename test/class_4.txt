@@ -1,0 +1,10 @@
+class test(x:int, y : string, z : Array[double])
+{
+	def test (x : int) => int 
+	{}
+	
+	def test_2() => void
+	{}
+}
+
+var test : tets = new test(1, "")

@@ -1,0 +1,13 @@
+def sum () => void
+{
+    var sum : int = 0
+    sum = a + b
+
+    return sum
+}
+
+def sum () => void
+{
+    import math._
+    import math as x
+}

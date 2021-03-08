@@ -1,0 +1,9 @@
+x match
+{
+    case 2 > 10 => 10 
+    case 2 > 10 => 10 
+    case 2 > 10 => 10 
+    case 2 > 10 => 10 
+    case 2 > 10 => 10 
+    case _ => 10 
+}

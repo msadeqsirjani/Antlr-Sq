@@ -1,0 +1,4 @@
+var n : int = 10
+var x : string = "asd"
+var w : double = 1.e10
+var wd : double = 1.e-10

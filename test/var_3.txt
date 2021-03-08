@@ -1,0 +1,3 @@
+var x : Array[int](10)
+var y : Array[string](12)
+var b : Array[double](100)

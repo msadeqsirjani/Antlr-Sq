@@ -1,0 +1,7 @@
+var x : Class = new Class()
+
+var w : Class = new Class(1)
+
+var d : Class = new Class(12)
+
+var a : Class = new Class(12, "safsf")

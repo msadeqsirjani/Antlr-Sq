@@ -1,0 +1,32 @@
+def sum (a: int, x : string) => int
+{
+    var sum : int = 0
+	if (10 > 2) 
+{
+    /*
+    Comment
+    */ 
+    # Comment
+}
+    sum = a + b
+}
+
+def sum (a: int, x : string, z : double) => int
+{
+    var sum : int = 0
+    sum = a + b
+}
+
+def sum (a: int, x : string, z : double, w: Array[double]) => int
+{
+    var sum : int = 0
+    sum = a + b
+
+    if (10 > 2) 
+{
+    /*
+    Comment
+    */ 
+    # Comment
+}
+}

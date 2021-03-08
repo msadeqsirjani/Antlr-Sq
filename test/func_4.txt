@@ -1,0 +1,12 @@
+def sum () => void
+{
+    return nil
+}
+
+def sum () => int
+{
+    var sum : int = 0
+    sum = a + b
+
+    return sum
+}

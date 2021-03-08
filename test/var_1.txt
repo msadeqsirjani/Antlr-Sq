@@ -1,0 +1,3 @@
+var n : int
+var x : string
+var w : double
